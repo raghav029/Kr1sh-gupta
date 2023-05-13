@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/toxic-haste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toxic-haste" height="30" width="40" /></a>
+<a href="https://codepen.io/toxic-haste" target="blank"><img align="center" src="https://cdn.dribbble.com/users/299/screenshots/5648722/codepen-logo-gifc2.gif" alt="toxic-haste" height="30" width="40" /></a>
 <a href="https://twitter.com/krishgu18913027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishgu18913027" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krish-gupta-97a882223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-gupta-97a882223" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21887775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21887775" height="30" width="40" /></a>
