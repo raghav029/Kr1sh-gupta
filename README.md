@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://codepen.io/toxic-haste" target="blank"><img align="center" src="https://cdn.dribbble.com/users/299/screenshots/5648722/codepen-logo-gifc2.gif" alt="toxic-haste" height="30" width="40" /></a>
 <a href="https://twitter.com/krishgu18913027" target="blank"><img align="center" src="https://media.tenor.com/PFwY0YBBJIYAAAAM/twitter-social-media.gif" alt="krishgu18913027" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krish-gupta-97a882223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-gupta-97a882223" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krish-gupta-97a882223" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="krish-gupta-97a882223" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21887775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21887775" height="30" width="40" /></a>
 <a href="https://instagram.com/krish7387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish7387" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dratechx6071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dratechx6071" height="30" width="40" /></a>
