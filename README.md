@@ -1,4 +1,4 @@
-[![MasterHead](https://krish-gupta.tech/assets/github/banner.jpg)](ttps://krish-gupta.tech)
+[![MasterHead](https://krish-gupta.tech/assets/github/banner.jpg)](https://krish-gupta.tech)
 <h1 align="center">Hi 👋, I'm Krish Gupta</h1>
 <h3 align="center">A passionate person trying everything so that I don't regret in future :)</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
