@@ -30,7 +30,7 @@
 <a href="https://instagram.com/krish7387" target="blank"><img align="center" src="https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif" alt="krish7387" height="30" width="40" /></a>
 <a href="https://youtube.com/@dratechx6071" target="blank"><img align="center" src="https://cdn.pixabay.com/animation/2022/08/03/10/03/10-03-17-794_512.gif" alt="dratechx6071" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/krish_12" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="krish_12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishguptaddn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishguptaddn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/krishguptaddn" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:512/1*ymdLUYayjisO2uU47lOI0A.png" alt="krishguptaddn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
