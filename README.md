@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/krish-gupta-97a882223" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="krish-gupta-97a882223" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21887775" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="21887775" height="30" width="40" /></a>
 <a href="https://instagram.com/krish7387" target="blank"><img align="center" src="https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif" alt="krish7387" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dratechx6071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dratechx6071" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dratechx6071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dratechx6071" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/krish_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="krish_12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishguptaddn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishguptaddn" height="30" width="40" /></a>
 </p>
