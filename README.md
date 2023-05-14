@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Pentesting-Cross Site Scripting XSS**
 
-- 👨‍💻 All of my projects are available at [Krish-gupta.tech](Krish-gupta.tech)
+- 👨‍💻 All of my projects are available at [Krish-gupta.tech](https://Krish-gupta.tech)
 
-- 📝 I regularly write articles on [krish-gupta.tech/blog](krish-gupta.tech/blog)
+- 📝 I regularly write articles on [krish-gupta.tech/blog](https://krish-gupta.tech/blog)
 
 - 💬 Ask me about **Future Market**
 
 - 📫 How to reach me **Krishguptaddn@gmail.com**
 
-- 📄 Know about my experiences [krish-gupta.tech/resume](krish-gupta.tech/resume)
+- 📄 Know about my experiences [krish-gupta.tech/resume](https://krish-gupta.tech/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
