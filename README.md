@@ -52,8 +52,11 @@
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/css_button_icon_151935.png" alt="css" width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/laravel_button_icon_151953.png" alt="Laravel" width="100" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/react.png" alt="reactjs" width="100" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/nodejs.png" alt="nodejs" width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/wordpress.png" alt="wordpress" width="100" hight="50">
 </p>
 </br>
 </br>
