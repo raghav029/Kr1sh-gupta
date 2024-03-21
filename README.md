@@ -46,10 +46,10 @@
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/azure.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
 </br>
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/react.png" alt="reactjs" width="100" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
