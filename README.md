@@ -37,7 +37,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
