@@ -99,18 +99,14 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <h1>⚡️<i>Stay Positive!</i>⚡️</h1>
 </div>
 
-<p align="center" >  
-  <a href="https://github.com/Kr1sh-gupta/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Kr1sh-gupta&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-<!--   <div style="display: flex; justify-content: space-between;"> -->
+
+   <div style="display: flex; justify-content: space-between;"> 
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1sh-gupta&show_icons=true&locale=en&layout=compact&theme=radical" alt="kr1sh-gupta" /></p>
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=kr1sh-gupta&show_icons=true&locale=en&theme=radical" alt="kr1sh-gupta" /></p>
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1sh-gupta&theme=radical" alt="kr1sh-gupta" /></p>
-<!-- </div> -->
+ </div>
 
 
 *************
