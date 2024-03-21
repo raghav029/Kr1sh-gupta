@@ -101,11 +101,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
    <div style="display: flex; justify-content: space-between;"> 
+     <p><img src="https://github-readme-stats.vercel.app/api?username=kr1sh-gupta&show_icons=true&locale=en&theme=radical" alt="kr1sh-gupta" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1sh-gupta&show_icons=true&locale=en&layout=compact&theme=radical" alt="kr1sh-gupta" /></p>
-
-  <p><img src="https://github-readme-stats.vercel.app/api?username=kr1sh-gupta&show_icons=true&locale=en&theme=radical" alt="kr1sh-gupta" /></p>
-
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1sh-gupta&theme=radical" alt="kr1sh-gupta" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1sh-gupta&theme=radical" alt="kr1sh-gupta" /></p>
  </div>
 
 
