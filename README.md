@@ -1,46 +1,50 @@
-[![MasterHead](https://krish-gupta.xyz/assets/github/banner.jpg)](https://krish-gupta.tech)
-<h1 align="center">Hi 👋, I'm Krish Gupta</h1>
-<h3 align="center">A passionate person trying everything so that I don't regret in future :)</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kr1sh-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="kr1sh-gupta" /> </p>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="left"> <a href="https://twitter.com/krishgu18913027" target="blank"><img src="https://img.shields.io/twitter/follow/krishgu18913027?logo=twitter&style=for-the-badge" alt="krishgu18913027" /></a> </p>
+###
 
-- 🔭 I’m currently working on [Cybersecurity Analyst](https://mahdevops.live/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **Pentesting-Cross Site Scripting XSS**
+###
 
-- 👨‍💻 All of my projects are available at [Krish-gupta.tech](https://Krish-gupta.tech)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- 📝 I regularly write articles on [krish-gupta.tech/blog](https://krish-gupta.tech/blog)
+###
 
-- 💬 Ask me about **Future Market**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-- 📫 How to reach me **Krishguptaddn@gmail.com**
+###
 
-- 📄 Know about my experiences [krish-gupta.tech/resume](https://krish-gupta.tech/resume)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/toxic-haste" target="blank"><img align="center" src="https://cdn.dribbble.com/users/299/screenshots/5648722/codepen-logo-gifc2.gif" alt="toxic-haste" height="30" width="40" /></a>
-<a href="https://twitter.com/krishgu18913027" target="blank"><img align="center" src="https://media.tenor.com/PFwY0YBBJIYAAAAM/twitter-social-media.gif" alt="krishgu18913027" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krish-gupta-97a882223" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="krish-gupta-97a882223" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21887775" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="21887775" height="30" width="40" /></a>
-<a href="https://instagram.com/krish7387" target="blank"><img align="center" src="https://media.tenor.com/PODuLdcrSnYAAAAi/insta-instagram.gif" alt="krish7387" height="30" width="40" /></a>
-<a href="https://youtube.com/@dratechx6071" target="blank"><img align="center" src="https://cdn.pixabay.com/animation/2022/08/03/10/03/10-03-17-794_512.gif" alt="dratechx6071" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/krish_12" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" alt="krish_12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krishguptaddn" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:512/1*ymdLUYayjisO2uU47lOI0A.png" alt="krishguptaddn" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/114253208/original/f650139840066f30c10aa746f4de46f0086c8f64/code-in-c-and-c-plus-pus.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/AnantP%40html.png" alt="html" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngplay.com/wp-content/uploads/13/Linux-Logo-Transparent-PNG.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/php-logo.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kr1sh12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kr1sh12" /></a></p><br><br><br>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1sh-gupta&show_icons=true&locale=en&layout=compact" alt="kr1sh-gupta" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1sh-gupta&show_icons=true&locale=en" alt="kr1sh-gupta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1sh-gupta&" alt="kr1sh-gupta" /></p>
+###
