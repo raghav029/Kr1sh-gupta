@@ -13,7 +13,7 @@
 
 ### - I'm 21 years old CyberSecurity & Cloud Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
