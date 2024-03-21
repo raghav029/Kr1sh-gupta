@@ -42,7 +42,9 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="47" hight="47">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/burpsuite_113238.png" alt="burp" width="47" hight="47">
+<img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/wireshark_22388.png" alt="wireshark" width="50" hight="50">
+<!-- <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50"> -->
 <!-- <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/digital.png" alt="digitalocean" width="90" hight="50"> -->
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/azure.png" alt="azure" width="100" hight="50">
 <img src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
