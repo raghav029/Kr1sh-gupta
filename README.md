@@ -74,7 +74,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/krish-gupta-97a882223/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Kr1sh-gupta/Kr1sh-gupta/blob/main/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
