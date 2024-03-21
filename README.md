@@ -1,5 +1,5 @@
 <h1 align="center"> Hi , I'm Krish Gupta (Toxic Haste) 👋 </h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+A+Student+AND+Tech+Enthusiast" alt="Typing SVG" /></a>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/Obshy86MvfcAAAAC/yo-anime.gif">
 </div>
