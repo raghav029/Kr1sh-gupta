@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 21 years old CyberSecurity & Cloud Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -97,7 +97,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Kr1sh-gupta&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
