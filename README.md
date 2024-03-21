@@ -14,13 +14,10 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Pentesting-Cross site Scripting XSS
+- ✨ Cloud Computing Services
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+### - 👨‍💻 All of my projects are available at <a href="krish-gupta.tech">Krish-gupta.tech</a> 
 
 </br>
 </br>
