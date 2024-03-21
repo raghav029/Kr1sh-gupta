@@ -20,7 +20,8 @@
 ### - Others :
 <ul>
   <li>👨‍💻 All of my projects are available at <a href="krish-gupta.tech">Krish-gupta.tech</li>
-  <li>📫 How to reach me Krishguptaddn@gmail.com</li>
+  <li>📫 How to reach me 
+<a href="mailto:krishguptaddn@gmail.com">Krishguptaddn@gmail.com</a></li>
 </ul>
 
 
