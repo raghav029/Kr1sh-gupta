@@ -86,6 +86,11 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
  </p>
  
+ <h2 align="center">🤝 Support</h2>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p><a href="https://www.buymeacoffee.com/kr1sh12"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kr1sh12" /></a></p>
+</p>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 </br>
 </br>
@@ -98,7 +103,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <a href="https://github.com/Kr1sh-gupta/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Kr1sh-gupta&&show_icons=true&theme=radical"/>
   </a>
   </p>
