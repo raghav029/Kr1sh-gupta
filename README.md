@@ -1,4 +1,4 @@
-# Hi , I'm Krish Gupta (Toxic Haste) 👋
+<h1 align="center"> Hi , I'm Krish Gupta (Toxic Haste) 👋 </h1>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
