@@ -19,9 +19,10 @@
 
 ### - Others :
 <ul>
-  <li>👨‍💻 All of my projects are available at <a href="krish-gupta.tech">Krish-gupta.tech</li>
+  <li>👨‍💻 All of my projects are available at <a href="krish-gupta.xyz">Krish-gupta.xyz</li>
   <li>📫 How to reach me 
 <a href="mailto:krishguptaddn@gmail.com">Krishguptaddn@gmail.com</a></li>
+     <li>🔭 I’m currently working on <a href="krish-gupta.xyz/current-project">project</li>
 </ul>
 
 
