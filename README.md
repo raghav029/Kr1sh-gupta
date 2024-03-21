@@ -1,7 +1,7 @@
 <h1 align="center"> Hi , I'm Krish Gupta (Toxic Haste) 👋 </h1>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/Obshy86MvfcAAAAC/yo-anime.gif">
 </div>
 
 </br>
