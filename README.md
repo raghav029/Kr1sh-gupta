@@ -96,7 +96,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <div align="center">
   <h2>🤝 Support</h2>
   <p><a href="https://www.buymeacoffee.com/kr1sh12"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kr1sh12"/></a></p>
-  <br/>
   <h1>⚡️<i>Stay Positive!</i>⚡️</h1>
 </div>
 
