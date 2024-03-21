@@ -17,6 +17,7 @@
 - ✨ Pentesting-Cross site Scripting XSS
 - ✨ Cloud Computing Services
 
+### - Others :
 <ul>
   <li>👨‍💻 All of my projects are available at <a href="krish-gupta.tech">Krish-gupta.tech</li>
   <li>📫 How to reach me Krishguptaddn@gmail.com</li>
