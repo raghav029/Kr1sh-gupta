@@ -1,4 +1,5 @@
-<h1 align="center"> Hi , I'm Krish Gupta (Toxic Haste) 👋 </h1>
+<h1 align="center"> Hi , I'm Krish Gupta 👋 </h1>
+<!--   (Toxic Haste)  -->
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media1.tenor.com/m/Obshy86MvfcAAAAC/yo-anime.gif">
 </div>
